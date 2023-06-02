@@ -1,0 +1,9 @@
+{
+  "profiles": [
+    { "id": 1, "name": "Admin", "role": "Admin" },
+    { "id": 2, "name": "Directeur", "role": "Directeur" },
+    { "id": 3, "name": "Superviseur", "role": "Superviseur" },
+    { "id": 4, "name": "Utilisateur", "role": "Utilisateur" },
+    { "id": 5, "name": "Visiteur", "role": "Visiteur" }
+  ]
+}
